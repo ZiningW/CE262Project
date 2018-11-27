@@ -14,6 +14,8 @@ Data collected include:
 - Wait Time [Minutes]
 
 ## TestFile.ipynb
-**Work in Progress**
 File for testing processes for analysis
+
+Cleans and plots data from UberX and UberPool
+Performs regression analysis on trip prices on both datasets for weekdays 
 
